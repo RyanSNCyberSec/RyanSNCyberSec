@@ -14,5 +14,5 @@
 - <b>Linux </b>
   - [Linux Commands]
   - 
-- <b>Incident Handler's Journal</b>
+- <b>Incident Handler's Journal </b>
   - [Journal Entries]
