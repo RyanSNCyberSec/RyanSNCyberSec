@@ -12,8 +12,11 @@
   - [Linux Commands]
  
 - <b>Security Audit Practice </b>
+
   -[Botium Toys Security Audit Compliance Checklist](https://github.com/RyanSNCyberSec/RyanSNCyberSec/blob/21a9db322e1fd000e7a878fe99030469b376c5f2/Compliance%20checklist.pdf)
+  
   -[Botium Toys Security Audit Controls Assessment](https://github.com/RyanSNCyberSec/RyanSNCyberSec/blob/21a9db322e1fd000e7a878fe99030469b376c5f2/Controls%20assessment.pdf)
+  
   -[Botium Toys Security Audit Stakeholder Memorandum](https://github.com/RyanSNCyberSec/RyanSNCyberSec/blob/21a9db322e1fd000e7a878fe99030469b376c5f2/Stakeholder%20memorandum.pdf)
 
 - <b>Incident Handler's Journal </b>
