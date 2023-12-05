@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SQL Practice </b>
+- <b>SQL </b>
   - [Applying Filters]
 
 - <b>Python </b>
@@ -11,8 +11,8 @@
 - <b>Linux </b>
   - [Linux Commands]
  
-- <b>Security Audit Practice </b>
-
+- <b>Security Audit </b>
+  -[Botium Toys Company]
 
 - <b>Incident Handler's Journal </b>
   - [Journal Entries]
