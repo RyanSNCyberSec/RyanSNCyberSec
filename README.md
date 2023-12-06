@@ -12,7 +12,7 @@
   - [Linux Commands]
  
 - <b>Security Audit </b>
-  - [Botium Toys Company]
+  - [Botium Toys Company](https://github.com/RyanSNCyberSec/BotiumToysCompany)
 
 - <b>Incident Handler's Journal </b>
   - [Journal Entries]
