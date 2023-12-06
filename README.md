@@ -19,7 +19,7 @@
 
 <h2> 📜 Certificates:</h2>
 
-- <b>Google Cybersecurity Professional </b>
+- <b>[Google Cybersecurity Professional](https://github.com/RyanSNCyberSec/RyanSNCyberSec/blob/RyanSNCyberSec-patch-1/Google%20Cybersecurity%20Certificate.pdf) </b>
 
 <h2> 🤳 Connect with me:</h2>
 
