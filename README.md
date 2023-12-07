@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SQL </b>
-  - [Filtering dates and numbers]
+  - [Filtering dates and numbers](https://github.com/RyanSNCyberSec/Filteringdatesandnumbers)
 
 - <b>Python </b>
   - [Importing and parsing a text file in Python]
