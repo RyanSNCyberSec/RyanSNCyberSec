@@ -4,6 +4,8 @@
 
 - <b>SQL </b>
   - [Filtering dates and numbers](https://github.com/RyanSNCyberSec/Filteringdatesandnumbers)
+  - [Filter with AND, OR, and NOT]
+  - [Apply filters to SQL queries ]
 
 - <b>Python </b>
   - [Importing and parsing a text file in Python]
