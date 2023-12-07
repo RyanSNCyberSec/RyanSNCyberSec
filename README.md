@@ -4,7 +4,7 @@
 
 - <b>SQL </b>
   - [Filtering dates and numbers](https://github.com/RyanSNCyberSec/Filteringdatesandnumbers)
-  - [Filtering with AND, OR, and NOT](https://github.com/RyanSNCyberSec/FilteringwithAND-OR-andNOT/blob/main/README.md)
+  - [Filtering with AND, OR, and NOT](https://github.com/RyanSNCyberSec/FilteringwithAND-OR-andNOT)
   - [Apply filters to SQL queries ]
 
 - <b>Python </b>
