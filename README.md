@@ -8,7 +8,7 @@
   
 
 - <b>Python </b>
-  - [Importing and parsing a text file in Python]
+  - [Updating a file through a Python algorithm]
 
 - <b>Linux </b>
   - [Linux Commands]
