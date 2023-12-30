@@ -17,7 +17,7 @@
   - [Botium Toys Company](https://github.com/RyanSNCyberSec/BotiumToysCompany)
 
 - <b>Incident Handler's Journal </b>
-  - [Journal Entries]
+  - [Journal Entries](https://github.com/RyanSNCyberSec/JournalEntries)
 
 <h2> 📜 Certificates:</h2>
 
