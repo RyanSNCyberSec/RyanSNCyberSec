@@ -13,7 +13,7 @@
 - <b>Linux </b>
   - [Linux Commands]
  
- - <b>Vulnerability Assessment </b>
+- <b>Vulnerability Assessment </b>
   - [Vulnerability Assessment](https://github.com/RyanSNCyberSec/VulnerabilityAssessment)
  
 - <b>Security Audit </b>
